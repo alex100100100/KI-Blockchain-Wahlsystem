@@ -1,2 +1,8 @@
 # KI-Blockchain-Wahlsystem
-Open-Source-Projekt für ein transparentes, sicheres Wahlsystem, das Blockchain-Technologie mit künstlicher Intelligenz zur Unterstützung ethischer und nachvollziehbarer Wahlprozesse kombiniert.
+KI-gestütztes Blockchain-Wahlsystem – Open Source Projekt Projektübersicht Dies ist ein Open-Source-Projekt zur Entwicklung eines transparenten, sicheren und ethisch kontrollierten Wahlsystems, das Blockchain-Technologie mit künstlicher Intelligenz (KI) zur Entscheidungsunterstützung kombiniert. Ziel ist es, demokratische Entscheidungsprozesse durch moderne Technologien zu verbessern, Wahlergebnisse manipulationssicher zu machen und gleichzeitig ethische Richtlinien und gesellschaftliche Werte mit einzubeziehen. 
+Motivation Digitale Wahlsysteme stehen vor großen Herausforderungen: Datenschutz, Manipulationsschutz und Transparenz. Unser Ansatz verbindet die Unveränderbarkeit der Blockchain mit KI-gestützten Analysen, um fundierte Empfehlungen und nachvollziehbare Wahlprozesse zu schaffen.Dieses Projekt soll mitgestalten lassen und einen Beitrag zur demokratischen Teilhabe leisten. Aktueller Stand Funktionsfähiges Grundgerüst mit Blockchain-basiertem Stimmen management Sichere Wählerregistrierung via Public Key und Stimm-Signaturen Integration einer anonymen Abstimmungsoption Vollständige Blockchain-Verifikation und Ergebnisberechnung Die KI-Komponente ist ein geplanter Entwicklungsschritt und wird bald ergänzt.Mit machen Das Projekt lebt von Community-Beteiligung! Entwickler, Ethiker, Datenschützer, politische Aktivisten und interessierte Nutzer sind herzlich eingeladen, mitzuwirken.
+
+Lizenz & RechtlichesDas Projekt wird unter der MIT-Lizenz veröffentlicht. Alle Beiträge sind mit Namensvermerken versehen und die Urheberschaft ist dokumentiert.
+
+KontaktProjektleiter: Alexander Domke
+E-Mail: alexander.domke@gmx.de
